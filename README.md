@@ -1,6 +1,6 @@
 # AlgoraArt
-Decentralized app for crowd funding public art built on Algorand and dotNet. I hope to build a
-better platform for art vendors, sponsors, and artist to create, collaborate, and promote public art initivatives.    
+Decentralized app for crowd funding public art built on Algorand and dotNet. I hope to build a sustainable
+platform for arts where vendors, sponsors, and artists can create, collaborate, and promote public art initivatives.    
 
 
 ## Technologies

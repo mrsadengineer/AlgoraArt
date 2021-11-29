@@ -13,7 +13,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.0] -
 ## [Released]
 
-
+## [0.1.3] - 2021-11-29
+### Added
+-views: algoraartspaces, createstation
+### Updated
+-views: _layout
+-readme.md
 
 
 ## [0.1.2] - 2021-11-28

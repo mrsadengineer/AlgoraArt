@@ -23,6 +23,16 @@ namespace AlgoraArt.WebApp.Controllers
             return View();
         }
 
+
+        public IActionResult AlgoraArtSpaces()
+        {
+            return View();
+        }
+        public IActionResult CreateStation()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
