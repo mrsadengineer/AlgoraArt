@@ -3,3 +3,48 @@
 *@
 @{
 }
+
+
+
+<main role="main">
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+        <div class="container">
+            <h1 class="display-3">Creators!</h1>
+            <p>Find your role below to help contribute for art in public spaces. 
+            </p>
+            <p><a class="btn btn-primary btn-lg" role="button" asp-area="" asp-action="/About">Learn more »</a></p>
+        </div>
+    </div>
+
+    <div class="container">
+        <!-- Example row of columns -->
+        <div class="row">
+            <div class="col-md-4">
+                <h2>Art Vendors</h2>
+                <p>
+Not-Profit, art, muesums, or any organization that want to bring art to public spaces. 
+                </p>
+                <p><a class="btn btn-secondary" role="button" asp-area="" asp-controller="Home"  asp-action="/ArtVendorHome">Here to Host »</a></p>
+            </div>
+            <div class="col-md-4">
+                <h2>Artists</h2>
+                <p>Artist can find gigs and opportunity to collabborate on art projects.</p>
+                <p><a class="btn btn-secondary" role="button" asp-area="" asp-controller="Home"  asp-action="/ArtistsHome">Show your Skills</a></p>
+            </div>
+            <div class="col-md-4">
+                <h2>Volunteer</h2>
+                <p>
+               Even as volunteer, you can help create. Sign up to volunteer at events. 
+            
+                </p>
+                <p><a class="btn btn-secondary" role="button" asp-area="" asp-controller="Home"  asp-action="/VolunteerHome">Here to Volunteer »</a></p>
+            </div>
+        </div>
+
+        <hr>
+
+    </div> <!-- /container -->
+
+</main>

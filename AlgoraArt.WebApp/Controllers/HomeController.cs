@@ -22,8 +22,27 @@ namespace AlgoraArt.WebApp.Controllers
         {
             return View();
         }
+        public IActionResult Sponsor()
+        {
+            return View();
+        }
+        public IActionResult About()
+        {
+            return View();
+        }
+        public IActionResult ArtVendorHome()
+        {
+            return View();
+        }
+        public IActionResult VolunteerHome()
+        {
+            return View();
+        }
 
-
+        public IActionResult ArtistsHome()
+        {
+            return View();
+        }
         public IActionResult AlgoraArtSpaces()
         {
             return View();
