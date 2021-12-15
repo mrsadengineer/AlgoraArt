@@ -91,3 +91,8 @@ Create a gallery for selling photos and art.
 The originally idea for came from a virtual hackathon. Although I didn't submit it, I did come out with this idea.  
 The original event name was the 2021 Sustainable Future Economy Hackathon https://algorand.whub.io/  
 
+## Source Material
+
+https://developer.algorand.org/tutorials/a-crowdfunding-dapp-on-the-algorand-network/#1-create-a-net-core-web-application  
+https://github.com/KusuConsult-NG/CrowdFundIT  
+

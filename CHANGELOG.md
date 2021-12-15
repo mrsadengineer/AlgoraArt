@@ -13,6 +13,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.0] -
 ## [Released]
 
+## [0.1.5] - 2021-12-15  
+### Added
+ - Application user in model 
+ -Configure the Identity Pages for User Registration and Login Functionalities
+## Updated
+	- algorand package to 0.2.1.
+	-startup.cs
+	-Update the dependency Injection: from identityuser to applicationuser.
+	-readme
+
 ## [0.1.5] - 2021-  
 ## Updated
 	- index for testing devops.
