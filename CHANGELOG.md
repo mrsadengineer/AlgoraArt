@@ -13,24 +13,33 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.0] -
 ## [Released]
 
+## [0.1.6] - 2021-12-15 
+### Added
+-Added models for Funders(Sponsors/Patrons) and RequestFunds.(Curators)
+
+### Updated
+-updated application database file. applicationDBcontext.cs
+-updated _LoginPartial.cshtml
+
+
 ## [0.1.5] - 2021-12-15  
 ### Added
  - Application user in model 
  -Configure the Identity Pages for User Registration and Login Functionalities
-## Updated
+### Updated
 	- algorand package to 0.2.1.
 	-startup.cs
 	-Update the dependency Injection: from identityuser to applicationuser.
 	-readme
 
 ## [0.1.5] - 2021-  
-## Updated
+### Updated
 	- index for testing devops.
 
 ## [0.1.4] - 2021-11-30  
-## Added
+### Added
 -added some placement pages for artists, artvendors, sponsors, and volunetter.   
-## Updated  
+### Updated  
 -updated home controller to respone with the right page.   
 
 
